@@ -19,4 +19,6 @@ The `Authorization` filed has to be the same as the `auth` value in the config f
 
 #### That's it
 I would appreciate credit if you are using it publicly but it's no big deal.
-Tell me if I forgot anything. Discord: Flampt#4460
+Tell me if I forgot anything.
+
+Discord: Flampt#4460
