@@ -3,7 +3,7 @@ from discord.ext import commands, tasks
 import discord
 from configparser import ConfigParser
 parser = ConfigParser()
-parser.read("config.txt")
+parser.read("conifg.txt")
 auth = parser.get('config', 'auth')
 
 app = web.Application()
